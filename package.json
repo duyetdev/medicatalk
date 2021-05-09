@@ -34,7 +34,7 @@
     "rc": "1.2.8",
     "sails": "1.2.4",
     "sails-disk": "2.1.0",
-    "sails-mongo": "1.2.0",
+    "sails-mongo": "2.0.0",
     "validator": "13.1.1",
     "snyk": "1.360.0"
   },
