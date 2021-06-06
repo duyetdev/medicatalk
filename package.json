@@ -32,7 +32,7 @@
     "passport-local": "1.0.0",
     "passport-twitter": "1.0.4",
     "rc": "1.2.8",
-    "sails": "1.2.4",
+    "sails": "1.4.3",
     "sails-disk": "2.1.0",
     "sails-mongo": "1.2.0",
     "validator": "13.1.1",
